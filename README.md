@@ -37,6 +37,22 @@ Add a script to easily run the dev server as well, package.json
 "start": "webpack-dev-server --open",
 
 
+#Production Mode
+
+Install npm install --save-dev webpack-merge
+
+Create three config files
+
+1. webpack.common.js
+
+2. webpack.dev.js
+
+3. webpack.prod.js
+
+Change the package.json 
+
+
+Reference: https://webpack.js.org/guides/
 
 
 
