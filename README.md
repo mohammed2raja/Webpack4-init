@@ -15,7 +15,7 @@ step 6: npm install --save-dev html-webpack-plugin
 
 step7: npm install --save-dev clean-webpack-plugin
 
-#Webpack4-Development
+# Webpack4-Development
 
 
 set- devtool: 'inline-source-map' in webpack.config.js
@@ -37,7 +37,7 @@ Add a script to easily run the dev server as well, package.json
 "start": "webpack-dev-server --open",
 
 
-#Production Mode
+# Production Mode
 
 Install npm install --save-dev webpack-merge
 
